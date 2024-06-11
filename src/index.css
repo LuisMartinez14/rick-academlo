@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+body{
+   
+    background-image: url('./assets/fondoRickAndMorty.jpg');
+    background-size: 200px;
+}
+*{
+    font-family: 'Delicious Handrawn', cursive;
+    margin: 0 0;
+    padding: 0 0;
+
+}
